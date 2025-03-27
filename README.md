@@ -87,6 +87,7 @@ El proyecto esta dividido en varias etapas:
 - **OpenAQ API:** Mediciones en tiempo real de calidad del aire en distintas ciudades del mundo.
 
 -------
+![Uploading image.png…]()
 
  Análisis de RESULTADOS De correlacion
 1- Ciudades mas contaminadas (2019-2022)
