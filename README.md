@@ -91,7 +91,7 @@ El proyecto esta dividido en varias etapas:
 ## 👥 Autores y Creditos
 Proyecto desarrollado para el curso de **Mineria de Datos**, basado en datos abiertos y herramientas de analisis de Google Cloud.
 
-**Autores:** Cristobal Cabrera, Mauricio Badilla y Nicolas Concha.
+**Autores:** Cristobal Cabrera y Mauricio Badilla.
 
 ---
 
