@@ -86,6 +86,43 @@ El proyecto esta dividido en varias etapas:
 - **Google BigQuery Public Datasets:** Base de datos sobre contaminacion atmosferica.
 - **OpenAQ API:** Mediciones en tiempo real de calidad del aire en distintas ciudades del mundo.
 
+-------
+
+ Análisis de RESULTADOS De correlacion
+1- Ciudades mas contaminadas (2019-2022)
+
+Se seleccionaron las 10 ciudades de USA más contaminadas por año según los niveles promedio de PM2.5 y PM10.
+
+Algunas ciudades solo tienen datos de un contaminante (por ejemplo, Muskogee en 2019 solo tiene PM10, y BANNOCK solo tiene PM2.5),
+Esto se debe a la falta de informacion del mismo archivo, cada año se encontraron distintos tipos de poluciones.
+Se observan diferencias significativas en los niveles de contaminación entre años y ciudades.
+
+2- Datos ausentes y su impacto
+
+En varias ciudades, faltan valores de PM10 o PM2.5, lo que puede indicar:
+
+Falta de mediciones en ciertos años.
+
+Limitaciones en la recolección de datos en algunas ciudades.
+
+Posible sesgo en la selección del querry o estaciones de monitoreo.
+
+3- Correlación entre PM2.5 y PM10
+
+La matriz de correlación muestra un valor de -0.31 entre PM2.5 y PM10.
+
+Esto significa que, en esta selección de ciudades, cuando los niveles de PM10 aumentan, los de PM2.5 tienden a disminuir, y viceversa.
+
+Sin embargo, una correlación negativa tan baja indica que PM2.5 y PM10 no siempre siguen el mismo patrón en estas ciudades. Pode ser a la falta de valores por año que afecta en la correlacion final entre las ciudad desde el 2019 al 2022.
+
+4- Ciudades con valores extremos
+
+En 2020, "POWDER RIVER" tiene un PM10 de 132, mientras que en 2021, "MADISON" tiene PM2.5 de 150.8, valores muy altos en comparación con otras ciudades.
+
+El "Centro" aparece en múltiples años con altos valores de PM10 y niveles bajos de PM2.5.
+
+En 2022, "MONO" destaca con PM10 de 104.8 y un PM2.5 de 5.6, lo que refuerza la idea de que no siempre hay una relación fuerte entre los dos contaminantes.
+
 ---
 
 ## 👥 Autores y Creditos
