@@ -127,8 +127,8 @@ El "Centro" aparece en múltiples años con altos valores de PM10 y niveles bajo
 
 En 2022, "MONO" destaca con PM10 de 104.8 y un PM2.5 de 5.6, lo que refuerza la idea de que no siempre hay una relación fuerte entre los dos contaminantes.
 
+##  Conclusiones
 ---
-
 
 El análisis de los niveles de contaminación en diversas ciudades de Estados Unidos ha revelado diferencias notables en los niveles de PM2.5 y PM10 a lo largo de diferentes años y regiones. Las principales conclusiones son las siguientes:
 
