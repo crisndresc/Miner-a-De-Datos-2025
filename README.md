@@ -90,7 +90,7 @@ El proyecto esta dividido en varias etapas:
 
 
 
-📈 Análisis de RESULTADOS De correlacion
+##  📈 Análisis de RESULTADOS De correlación
 1- Ciudades mas contaminadas (2019-2022)
 
 Se seleccionaron las 10 ciudades de USA más contaminadas por año según los niveles promedio de PM2.5 y PM10.
@@ -126,7 +126,7 @@ El "Centro" aparece en múltiples años con altos valores de PM10 y niveles bajo
 En 2022, "MONO" destaca con PM10 de 104.8 y un PM2.5 de 5.6, lo que refuerza la idea de que no siempre hay una relación fuerte entre los dos contaminantes.
 
 ---
-📄 Conclusiones
+## 📄 Conclusiones
 El análisis de los niveles de contaminación en distintas ciudades de Estados Unidos ha permitido identificar variaciones significativas en los niveles de PM2.5 y PM10 entre distintos años y regiones. Algunas observaciones clave incluyen:
 
 Diferencias en los contaminantes registrados: No todas las ciudades tienen datos completos para ambos contaminantes, lo que sugiere limitaciones en la recolección de información o diferencias en la cobertura de monitoreo.
