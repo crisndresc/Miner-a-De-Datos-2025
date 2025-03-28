@@ -138,6 +138,8 @@ Valores extremos: Algunas ciudades, como Powder River en 2020 y Madison en 2021,
 Tendencias a lo largo del tiempo: La evolución de la contaminación en cada ciudad varía, lo que resalta la importancia de analizar los datos en periodos específicos y considerar posibles factores externos que influyen en los niveles de calidad del aire.
 
 Este estudio demuestra la necesidad de contar con datos más completos y homogéneos para obtener una visión más precisa de la calidad del aire en diferentes regiones. Además, destaca la importancia de aplicar técnicas de minería de datos para identificar patrones y posibles factores que afectan la contaminación ambiental.
+
+
 ------
 ## 👥 Autores y Creditos
 Proyecto desarrollado para el curso de **Mineria de Datos**, basado en datos abiertos y herramientas de analisis de Google Cloud.
