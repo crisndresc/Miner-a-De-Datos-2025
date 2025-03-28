@@ -130,7 +130,19 @@ En 2022, "MONO" destaca con PM10 de 104.8 y un PM2.5 de 5.6, lo que refuerza la 
 ---
 
 
+El análisis de los niveles de contaminación en diversas ciudades de Estados Unidos ha revelado diferencias notables en los niveles de PM2.5 y PM10 a lo largo de diferentes años y regiones. Las principales conclusiones son las siguientes:
 
+Variaciones en los contaminantes medidos: No todas las ciudades disponen de datos completos para ambos contaminantes, lo que sugiere limitaciones en la recolección de datos o disparidad en la cobertura de monitoreo.
+
+Relación entre PM2.5 y PM10: Aunque estos dos contaminantes suelen estar correlacionados, en este análisis se observó una correlación negativa débil (-0.31), lo que indica que en algunas ciudades sus patrones no siempre coinciden.
+
+Valores atípicos: Ciudades como Powder River en 2020 y Madison en 2021 registraron niveles de contaminación inusualmente altos, lo que podría estar vinculado a eventos puntuales como incendios forestales o alta actividad industrial.
+
+Tendencias a lo largo del tiempo: Los cambios en los niveles de contaminación varían entre las ciudades, lo que subraya la relevancia de analizar los datos por periodos específicos y tener en cuenta factores externos que puedan influir en la calidad del aire.
+
+Este estudio resalta la importancia de contar con datos más completos y consistentes para obtener una visión más precisa de la calidad del aire en distintas regiones. También subraya la relevancia de emplear técnicas de minería de datos para identificar patrones y factores potenciales que impactan la contaminación ambiental.
+
+##  Conclusiones
 ------
 ## 👥 Autores y Creditos
 Proyecto desarrollado para el curso de **Mineria de Datos**, basado en datos abiertos y herramientas de analisis de Google Cloud.
