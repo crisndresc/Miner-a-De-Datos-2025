@@ -142,7 +142,6 @@ Tendencias a lo largo del tiempo: Los cambios en los niveles de contaminación v
 
 Este estudio resalta la importancia de contar con datos más completos y consistentes para obtener una visión más precisa de la calidad del aire en distintas regiones. También subraya la relevancia de emplear técnicas de minería de datos para identificar patrones y factores potenciales que impactan la contaminación ambiental.
 
-##  Conclusiones
 ------
 ## 👥 Autores y Creditos
 Proyecto desarrollado para el curso de **Mineria de Datos**, basado en datos abiertos y herramientas de analisis de Google Cloud.
