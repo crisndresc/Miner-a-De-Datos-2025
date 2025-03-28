@@ -115,7 +115,7 @@ La matriz de correlación muestra un valor de -0.31 entre PM2.5 y PM10.
 
 Esto significa que, en esta selección de ciudades, cuando los niveles de PM10 aumentan, los de PM2.5 tienden a disminuir, y viceversa.
 
-Sin embargo, una correlación negativa tan baja indica que PM2.5 y PM10 no siempre siguen el mismo patrón en estas ciudades. Pode ser a la falta de valores por año que afecta en la correlacion final entre las ciudad desde el 2019 al 2022.
+Sin embargo, una correlación negativa tan baja indica que PM2.5 y PM10 no siempre siguen el mismo patrón en estas ciudades. Pode ser a la falta de valores por año que afecta en la correlación final entre las ciudad desde el 2019 al 2022.
 
 4. Ciudades con valores extremos
 
@@ -144,7 +144,7 @@ Este estudio demuestra la necesidad de contar con datos más completos y homogé
 ## 👥 Autores y Creditos
 Proyecto desarrollado para el curso de **Mineria de Datos**, basado en datos abiertos y herramientas de analisis de Google Cloud.
 
-**Autores:** Cristobal Cabrera y Mauricio Badilla.
+**Autores:** Cristobal Cabrera, Mauricio Badilla y Nicolás Concha
 
 ---
 
