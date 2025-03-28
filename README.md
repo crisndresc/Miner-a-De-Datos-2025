@@ -7,13 +7,15 @@ A traves de consultas SQL avanzadas y visualizaciones, buscamos identificar **pa
 
 En el caso de Estados Unidos, analizamos los niveles de contaminacion en diferentes ciudades, evaluando la presencia de contaminantes como **PM2.5, PM10, NO2 (dioxido de nitrogeno) y O3 (ozono troposferico)**. Ademas, realizamos estudios en diferentes periodos de tiempo, centrandonos en años especificos para observar tendencias y cambios en la calidad del aire a lo largo del tiempo.
 
+Los códigos respectivos de este proyecto fueron hechos por separado, unificados en una sola terminal, y luego subidos a GitHub.
+
 ---
 
 ## 🔧 Requisitos
-Para ejecutar el codigo, es necesario contar con las siguientes librerias y herramientas:
+Para ejecutar el código, es necesario contar con las siguientes librerias y herramientas:
 
 - Python 3.x
-- Google Cloud SDK (para autenticacion en BigQuery)
+- Google Cloud SDK (para autenticación en BigQuery)
 - Librerias de Python:
   - `google.cloud.bigquery`
   - `pandas`
